@@ -19,7 +19,7 @@
 
   <section id="sobre">
     <h2>🕯️ Sobre Mim</h2>
-    <p>Sou um entusiasta do código e da arte . Trabalho com desenvolvimento Fullstack e .</p>
+    <p>Sou um entusiasta do código e da arte . Trabalho com desenvolvimento Fullstack e focado em segurança de software.</p>
   </section>
   
   <section id="contato">
